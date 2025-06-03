@@ -6,7 +6,7 @@ Step into the role of a secret agent and uncover a hidden conspiracy through imm
 ---
 
 ## 🎮 Available on Steam  
-[Click here to play Shadow Protocol on Steam (https://store.steampowered.com/app/3735870/SHADOW_PROTOCOL/)
+[Click here to play Shadow Protocol on Steam](https://store.steampowered.com/app/3735870/SHADOW_PROTOCOL/)
 
 ---
 
@@ -32,6 +32,5 @@ Built entirely from scratch and released on Steam in 2025
 ---
 
 ## 📩 Contact
-For questions, feedback, or collaboration:  
-📧 shawnfuteran.dev@gmail.com 
+📧 shawnfuteran.dev@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/shawn-futeran-6593a1332/)
