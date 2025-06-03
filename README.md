@@ -34,6 +34,6 @@ Built entirely from scratch and released on Steam in 2025
 ## 📬 Contact
 
 For feedback, bug reports, or support:
-	•	📧 Feedback: shawnfuteran.dev+shadowfeedback@gmail.com
-	•	🛠️ Support: shawnfuteran.dev+shadowsupport@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/shawn-futeran-6593a1332/)
+• 📧 Feedback: shawnfuteran.dev+shadowfeedback@gmail.com
+• 🛠️ Support: shawnfuteran.dev+shadowsupport@gmail.com
+• 🔗 [LinkedIn](https://www.linkedin.com/in/shawn-futeran-6593a1332/)
