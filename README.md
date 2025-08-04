@@ -35,4 +35,5 @@ Built entirely from scratch and released on Steam in 2025
 
 For feedback, bug reports, or support:
 • 📧/🛠️ shawnfuteran.dev@gmail.com
-• 🔗 [LinkedIn](https://www.linkedin.com/in/shawn-futeran-6593a1332/)
+• 🔗 
+[LinkedIn](https://www.linkedin.com/in/shawn-futeran-6593a1332/)
